@@ -23,8 +23,8 @@ The screenshots above show three different scenarios within the application.
 
 ## Contributors
 
-[Matthew Duffin] (https://duffin22.github.io/) - Android Developer
+Matthew Duffin - Android Developer
 
-[Severin Rudie] (https://www.linkedin.com/in/severin-rudie) - Android Developer
+Severin Rudie - Android Developer
 
-[Michael M Kang] (michaelmkang.com) - Android Developer
+Michael M Kang - Android Developer
